@@ -54,6 +54,9 @@ Foods and beverages generate the highest revenue.
 Customer Behavior:
 Female customers purchase more cosmetics.
 
+Recommendations:
+Increase inventory  during sales seasons.
+
 
 # Technologies Used
 Languages: R
